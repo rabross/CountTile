@@ -1,3 +1,5 @@
+[![License WTFPL 2.0](https://img.shields.io/badge/License-WTFPL%202.0-blue.svg?style=true)](https://raw.githubusercontent.com/rabross/CountTile/master/LICENSE)
+
 # CountTile
 A simple Android Quick Settings Tile that counts up
 
